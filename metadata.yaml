@@ -1,0 +1,14 @@
+id: yawarana-parsing-ambiguity
+version: 0.0.1.draft
+title: "Ambiguities in parsing Yawarana data: practical and theoretical considerations"
+authors: 
+    - family-names: Matter
+      given-names: Florian
+abstract: Insert your abstract here
+keywords:
+- "corpus linguistics"
+- morphology
+- yawarana
+license: CC-BY-SA-4.0
+repository: https://github.com/fmatter/yawarana-parsing-ambiguity
+type: unpublished
